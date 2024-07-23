@@ -19,6 +19,7 @@
 
 6. Visit `http://localhost:8001/login` to login or signup
 7. visit `http://localhost:8001/logout` to logout
+8. Page required to log in before access- `http://localhost:8001/protected`
 
 
 ## How to create other API / Pages-
